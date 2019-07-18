@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Private Registry Custom Airflow Docker Web App on Linux with PostgreSQL",
+  "description": "This template provides a easy way to deploy a custom docker airflow image ifrom a private docker registry on a Linux Web App with Azure database for PostgreSQL",
+  "summary": "This template provides a easy way to deploy a custom docker airflow image from a private docker registry  on a Linux Web App with Azure database for PostgreSQL.",
+  "githubUsername": "linkerzx",
+  "dateUpdated": "2019-07-18"
+}
